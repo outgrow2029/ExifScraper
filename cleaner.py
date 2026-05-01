@@ -24,7 +24,7 @@ def remove_metadata(input_path, output_path):
         print(f"[-] Error: {e}")
 
 if __name__ == "__main__":
-    print("--- Privacy Scrubber v1.0 ---")
+    print("--- ExifScraper v1.0 ---")
     file_to_clean = input("Enter the path to the image: ").strip()
     
     if os.path.exists(file_to_clean):
