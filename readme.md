@@ -12,7 +12,7 @@ In 2012, John McAfee was located by authorities because a VICE photo contained e
 
 ## How to Run
 1. Clone the repo:
-   `git clone https://github.com/YOUR_USERNAME/exifscraper.git`
+   `git clone https://github.com/YOUR_USERNAME/ExifScraper.git`
 2. Install dependencies:
    `pip install -r requirements.txt`
 3. Run the tool:
